@@ -1,0 +1,13 @@
+attendance_system
+attendance_system.exe
+*.o
+lecturers.txt
+subjects.txt
+students.txt
+enrollments.txt
+attendance.txt
+warnings.txt
+attendance_temp.txt
+.DS_Store
+.vscode/
+.idea/
