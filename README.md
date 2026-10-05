@@ -1,4 +1,4 @@
-# Attendance Management System
+<img src="docs/logo.svg" alt="Attendance Management" width="560">
 
 ![Language](https://img.shields.io/badge/language-C-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-university%20project-lightgrey)
 
