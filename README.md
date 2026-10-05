@@ -1,5 +1,9 @@
 # Attendance Management System
 
+![Language](https://img.shields.io/badge/language-C-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-university%20project-lightgrey)
+
+![stack](https://icon-marquee.giann.dev/v1/icons?i=c)
+
 A console application written in C that handles university attendance for three kinds of users: academic staff, lecturers and students. Data is stored in plain text files, so there is no database to set up.
 
 It replaces paper registers and scattered spreadsheets with one program that records attendance, calculates percentages and warns students who fall below 80%.
